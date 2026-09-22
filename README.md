@@ -6,6 +6,12 @@ Atuo na área de Tecnologia da Informação, com experiência em **infraestrutur
 
 Tenho interesse principalmente em transformar tarefas repetitivas em processos automatizados, manter ambientes estáveis e desenvolver ferramentas que realmente facilitem o trabalho no dia a dia.
 
+## 📚 Filosofia
+
+> Automatizar o que pode ser automatizado, documentar o que precisa ser mantido e entender como as coisas realmente funcionam.
+
+Gosto de investigar problemas até encontrar a causa, em vez de apenas contornar o sintoma.
+
 ## 🛠️ Tecnologias e ferramentas
 
 ### Sistemas & Infraestrutura
@@ -67,10 +73,4 @@ Atualmente estou explorando principalmente:
 * 🗄️ PostgreSQL e aplicações orientadas a dados
 * 🖥️ Gerenciamento e padronização de endpoints
 * 📊 Monitoramento e observabilidade
-
-## 📚 Filosofia
-
-> Automatizar o que pode ser automatizado, documentar o que precisa ser mantido e entender como as coisas realmente funcionam.
-
-Gosto de investigar problemas até encontrar a causa, em vez de apenas contornar o sintoma.
 
