@@ -1,76 +1,43 @@
-# Olá, eu sou Matheus Soares
+# Olá, eu sou Matheus Soares 👋
 
-💻 **Analista de TI | Infraestrutura | Linux | Desenvolvimento Web**
+💻 **TI, infraestrutura, desenvolvimento e automação**
 
-Atuo na área de Tecnologia da Informação, com experiência em **infraestrutura, suporte, administração de sistemas, automação e desenvolvimento de aplicações web**.
+Gosto de entender como as coisas funcionam — principalmente quando elas **não deveriam estar funcionando daquele jeito**.
 
-Tenho interesse principalmente em transformar tarefas repetitivas em processos automatizados, manter ambientes estáveis e desenvolver ferramentas que realmente facilitem o trabalho no dia a dia.
+Trabalho com tecnologia envolvendo **Linux, Windows, redes, servidores, Active Directory, LDAP, automação e desenvolvimento web**. Também gosto de criar ferramentas para resolver problemas do dia a dia e, quando possível, automatizar aquilo que ninguém deveria precisar fazer manualmente.
 
-## 📚 Filosofia
-
-> Automatizar o que pode ser automatizado, documentar o que precisa ser mantido e entender como as coisas realmente funcionam.
-
-Gosto de investigar problemas até encontrar a causa, em vez de apenas contornar o sintoma.
-
-## 🛠️ Tecnologias e ferramentas
-
-### Sistemas & Infraestrutura
+### 🛠️ No que eu mexo
 
 * 🐧 Linux / Ubuntu
 * 🪟 Windows
-* Active Directory
-* LDAP / SSSD
-* Samba
-* DNS
-* Redes TCP/IP
-* Virtualização e serviços de infraestrutura
-* Monitoramento com Zabbix
-* Gestão de endpoints com KACE
+* 🌐 Redes e infraestrutura
+* 🔐 Active Directory / LDAP / SSSD
+* ⚙️ Bash / PowerShell / Batch
+* 💻 PHP / TypeScript / JavaScript
+* 🚀 Next.js / Node.js
+* 🗄️ PostgreSQL / SQL
+* 🌍 Nginx
+* 📦 Git / GitHub
+* 📊 Zabbix
+* 🖥️ Gerenciamento e automação de computadores
 
-### Desenvolvimento
+### 🔧 O que gosto de fazer
 
-* PHP
-* TypeScript / JavaScript
-* Next.js
-* Node.js
-* PostgreSQL
-* SQL
-* REST APIs
-* Active Record / TRepository
+* Automatizar tarefas repetitivas
+* Criar ferramentas internas
+* Administrar servidores Linux
+* Integrar Linux com ambientes Windows/AD
+* Desenvolver aplicações web
+* Investigar problemas até encontrar a causa
+* Melhorar processos que "sempre foram feitos assim"
+* Quebrar alguma coisa e depois descobrir como consertar
 
-### DevOps & Automação
+### 🚀 Atualmente
 
-* Git / GitHub
-* Bash
-* PowerShell
-* Batch
-* Nginx
-* pnpm
-* Turborepo
-* Automação de instalações e deployments
+Trabalhando e estudando principalmente **infraestrutura Linux, desenvolvimento web, automação, integração com Active Directory/LDAP e administração de sistemas**.
 
-## 🚀 Projetos
+Também mantenho alguns projetos próprios e ferramentas para facilitar tarefas de TI.
 
-Alguns dos projetos e sistemas com os quais trabalho incluem:
+---
 
-* **Sistemas internos para gerenciamento de laboratórios**
-* **Aplicações web para organização de tarefas e projetos**
-* **Integração de aplicações com LDAP / Active Directory**
-* **Automação de instalação e configuração de softwares**
-* **Administração de servidores Linux integrados ao Active Directory**
-* **Ferramentas para gerenciamento e padronização de computadores**
-* **Infraestrutura e serviços web para ambientes acadêmicos**
-
-## 💡 No que estou trabalhando atualmente
-
-Atualmente estou explorando principalmente:
-
-* 🐧 Administração avançada de Linux
-* 🔐 Integração Linux + Active Directory
-* 🌐 Desenvolvimento de aplicações web modernas
-* ⚙️ Automação de infraestrutura
-* 📦 Deploy e gerenciamento de aplicações
-* 🗄️ PostgreSQL e aplicações orientadas a dados
-* 🖥️ Gerenciamento e padronização de endpoints
-* 📊 Monitoramento e observabilidade
-
+> **Se funciona, ótimo. Se não funciona, vamos descobrir por quê.**
