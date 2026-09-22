@@ -74,6 +74,3 @@ Atualmente estou explorando principalmente:
 
 Gosto de investigar problemas até encontrar a causa, em vez de apenas contornar o sintoma.
 
-
-* GitHub: [@SEU_USUARIO](https://github.com/SEU_USUARIO)
-* E-mail: [seu-email@example.com](mailto:seu-email@example.com)
